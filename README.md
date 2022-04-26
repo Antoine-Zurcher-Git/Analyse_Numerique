@@ -36,7 +36,7 @@ Exemple de réfraction :
 
 Mais cela permet aussi de simuler l'equation de la chaleur, dans l'exemple suivant avec des sources de chaleur constantes :
 
-![diffFinieOndeRefractionGif](Differences-finies\Equation-de-la-chaleur\Resultats/Exemple.gif)
+![diffFinieOndeRefractionGif](Differences-finies/Equation-de-la-chaleur/Resultats/Exemple.gif)
 
 
 <br />
@@ -48,7 +48,7 @@ Mais cela permet aussi de simuler l'equation de la chaleur, dans l'exemple suiva
 La méthode des éléments finis à par exemple été utilisé pour un problème instationnaire de convection-diffusion
 
 Pour un terme source somme de produits de cosinus et de sinus :
-![diffFinieOndeRefractionGif](Elements-finis\3D\Resultats/II-eps01-beta(1,0).jpg)
+![diffFinieOndeRefractionGif](Elements-finis/3D/Resultats/II-eps01-beta(1,0).jpg)
 
 
 <br />
@@ -59,7 +59,7 @@ Pour un terme source somme de produits de cosinus et de sinus :
 
 La méthode d'optimisation à été utilisé afin de converger vers la forme d'une corde soumis à la gravité en partant de points placé aléatoirement :
 
-![diffFinieOndeRefractionGif](Optimisation-numérique\Resultats/GifMinimisation.gif)
+![diffFinieOndeRefractionGif](Optimisation-numérique/Resultats/GifMinimisation.gif)
 
 <br />
 
