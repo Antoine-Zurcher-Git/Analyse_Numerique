@@ -5,7 +5,7 @@
 Ce dépôt regroupe un ensemble de projets autour de l'analyse numérique : 
 
 - Simulation par la méthode des différences finies
-- Simualtion par la méthode des éléments finis
+- Simulation par la méthode des éléments finis
 - Optimisation numérique
 
 <br />
