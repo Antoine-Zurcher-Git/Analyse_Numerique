@@ -18,7 +18,7 @@ Ce dépôt regroupe un ensemble de projets autour de l'analyse numérique :
 
 <br />
 
-La méthode des différences finies permet notament de simuler l'equation de propagation d'une onde :
+La méthode des différences finies permet notamment de simuler l'équation de propagation d'une onde :
 
 Propagation de 2 ondes :
 ![diffFinieOndeExempleGif](Differences-finies/Equation-onde/Processing/Resultats/Version-Gif/Exemple.gif)
@@ -45,7 +45,7 @@ Mais cela permet aussi de simuler l'equation de la chaleur, dans l'exemple suiva
 
 <br />
 
-La méthode des éléments finis à par exemple été utilisé pour un problème instationnaire de convection-diffusion
+La méthode des éléments finis a par exemple été utilisée pour un problème instationnaire de convection-diffusion
 
 Pour un terme source somme de produits de cosinus et de sinus :
 ![diffFinieOndeRefractionGif](Elements-finis/3D/Resultats/II-eps01-beta(1,0).jpg)
@@ -57,7 +57,7 @@ Pour un terme source somme de produits de cosinus et de sinus :
 
 <br />
 
-La méthode d'optimisation à été utilisé afin de converger vers la forme d'une corde soumis à la gravité en partant de points placé aléatoirement :
+La méthode d'optimisation a été utilisée afin de converger vers la forme d'une corde soumise à la gravité en partant de points placés aléatoirement :
 
 ![diffFinieOndeRefractionGif](Optimisation-numérique/Resultats/GifMinimisation.gif)
 
